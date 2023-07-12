@@ -55,10 +55,10 @@ Note that the `prefix`, `suffix`, `pad`, and `speak-as` descriptors are not supp
 
 ## License
 
-This repository is licensed under [CC0], which is the closest I'm legally
-allowed to public domain.
+This repository is licensed under [MIT-0], which is the closest I'm legally
+allowed to public domain while being OSI approved.
 
 [CSS Counter Styles]: https://www.w3.org/TR/css-counter-styles-3/
 [Ready-made Counter Styles]: https://www.w3.org/TR/predefined-counter-styles/
 [numbering patterns]: https://typst.app/docs/reference/meta/numbering/
-[CC0]: https://spdx.org/licenses/CC0-1.0.html
+[MIT-0]: https://spdx.org/licenses/MIT-0.html
