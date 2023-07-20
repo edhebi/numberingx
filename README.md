@@ -11,7 +11,7 @@ with a number of [Ready-made Counter Styles]._
 
 // Use full-width roman numerals for titles, and lowercase ukrainian letters
 #set heading(numbering: numberingx.formatter(
-    "{fullwidth-upper-roman}.{fullwidth-lower-roman}.{lower-ukrainian}"
+  "{fullwidth-upper-roman}.{fullwidth-lower-roman}.{lower-ukrainian}"
 ))
 ```
 
