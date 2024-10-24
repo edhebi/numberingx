@@ -60,5 +60,5 @@ allowed to public domain while being OSI approved.
 
 [CSS Counter Styles]: https://www.w3.org/TR/css-counter-styles-3/
 [Ready-made Counter Styles]: https://www.w3.org/TR/predefined-counter-styles/
-[numbering patterns]: https://typst.app/docs/reference/meta/numbering/
+[numbering patterns]: https://typst.app/docs/reference/model/numbering/
 [MIT-0]: https://spdx.org/licenses/MIT-0.html
